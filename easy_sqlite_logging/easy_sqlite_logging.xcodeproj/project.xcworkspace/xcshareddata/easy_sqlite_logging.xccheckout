@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1DB1398-A3CE-4389-9419-43A9386830A0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>easy_sqlite_logging</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>12C252AF-2B22-4092-9118-636E9356BC1E</key>
+		<string>https://github.com/amorri40/easy_sqlite_logging.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>easy_sqlite_logging/easy_sqlite_logging.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>12C252AF-2B22-4092-9118-636E9356BC1E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/amorri40/easy_sqlite_logging.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>12C252AF-2B22-4092-9118-636E9356BC1E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>12C252AF-2B22-4092-9118-636E9356BC1E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>easy_sqlite_logging</string>
+		</dict>
+	</array>
+</dict>
+</plist>
